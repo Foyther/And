@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Battery Alarm</string>
+    <string name="battery_level">Battery Level</string>
+    <string name="battery_level_alarm">Battery level alarm</string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
+    <string name="alarm">Alarm</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="stop">Stop</string>
+    <string name="the_battery_has_reached">The battery has reached</string>
+    <string name="please_connect_charger">Please, connect charger!</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Battery Alarm</string>
+    <string name="battery_level">Уровень заряда</string>
+    <string name="battery_level_alarm">Уровень заряда для оповещения</string>
+    <string name="off">Выкл</string>
+    <string name="on">Вкл</string>
+    <string name="alarm">Будильник</string>
+    <string name="about">Информация</string>
+    <string name="exit">Выход</string>
+    <string name="stop">Остановить</string>
+    <string name="the_battery_has_reached">Батарея достигла</string>
+    <string name="please_connect_charger">Пожалуйста, подключите зарядное устройство!</string>
+</resources>

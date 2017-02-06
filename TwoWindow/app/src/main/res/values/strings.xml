@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TwoWindow</string>
+    <string name="tv_secod_activity">You on the second activity</string>
+</resources>

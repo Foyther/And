@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Transition</string>
+    <string name="btn_trans">Enter</string>
+    <string name="hint">Write your text</string>
+</resources>
