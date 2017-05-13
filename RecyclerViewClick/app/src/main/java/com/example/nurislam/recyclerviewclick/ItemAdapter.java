@@ -20,7 +20,6 @@ public class ItemAdapter extends RecyclerView.Adapter<ItemAdapter.ItemViewHolder
         this.mContext = context;
     }
 
-    public void setmItemsClickListenner
 
     @Override
     public ItemViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
